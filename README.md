@@ -24,10 +24,10 @@ Com o aplicativo Hitsuji Karatê-Dô Shotokan você vai conseguir fazer:
 Aplicativo Administrador
 - **Login**: acessar conta autenticada com validação Firebase Authentication
 - **Cadastrar**: criação de conta com autenticação Firebase Authentication.
-- **Dashboard**: mensagens de boas vindas com personalização de nome, atalhos de acesso rápido.
-- **Mensagens**: enviar notificações de avisos individuais ou todos para os alunos.
-- **Videoaulas**: adicionar novas videoaulas para os seua alunos.
-- **Configurações**: visualização do perfil dos alunos com dados cadastrados.
+- **Dashboard**: Mensagens de boas vindas com personalização de nome, atalhos de acesso rápido.
+- **Mensagens**: Enviar notificações de avisos individuais ou para todos os alunos.
+- **Videoaulas**: Adicionar novas videoaulas para os seus alunos.
+- **Configurações**: visualização do perfil do sensei.
 
 Aplicativo Aluno
 - **Login**: acessar conta autenticada com validação Firebase Authentication
