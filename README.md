@@ -14,7 +14,7 @@
 # Introdução
 A empresa Instituto Hitsuji Karatê-Dô Shotokan do "[Sensei José Carneiro][facebook]" viu uma necessidade de uma aplicativo de aulas online para os seus alunos, com isso foi desenvolvido o aplicativo Hitsuji Karatê-Dô Shotokan. <br/>
 Com objetivo de facilitar aos seus alunos o acompanhamento das aulas online via Youtube, disponíveis em uma lista das videoaulas mais atuais com um menu organizando os pilares do Karate, Kihon, Kata e Kumite. E para os alunos não perderem nenhuma novidade do instituto Hitsuji o aplicativo é capaz de enviar ou receber mensagens e notificações de aviso do Sensei. 
-O aplicativo foi desenvolvido na linguagem Kotlin com o banco de dados Firebase, e está disponível para download na sua versão beta.
+O aplicativo foi desenvolvido na linguagem Kotlin com o banco de dados Firebase, e está disponível para download.
 
 ## Características
 O aplicativo foi desenvolvido na linguagem Kotlin com o banco de dados Firebase, disponível para download na sua versão beta. 
